@@ -1,0 +1,579 @@
+@media all and (min-width: 320px) and (max-width: 767px) {
+nav.navbar.navbar-expand-lg.bg-light.navbar-light .navbar-brand {
+    font-size: 35px;
+    display: inline-block;
+    vertical-align: middle;
+
+}
+header .navbar {
+    padding: 0px 15px;
+}
+header .input-group {
+  margin-bottom: 10px;
+  margin-right: 0px;
+
+}
+header form.form-inline {
+    justify-content: flex-start;
+    -ms-flex-flow: row wrap;
+    flex-flow: row wrap;
+}
+header button.btn.btn-outline-secondary.dropdown-toggle {
+    width: 100%;
+    margin-bottom: 10px;
+    text-align: left;
+    margin-top: 10px;
+}
+header form.form-inline .input-group-prepend {
+    width: 100%;
+}
+.search-res-sec .sublist-ul.horiyo-ul {
+    width: 284px;
+}
+.search-res-sec .sublist-ul.horiyo-ul.last-price {
+    left: 0;
+    right: unset;
+}    
+header .btn-dark {
+    margin: 10px auto;
+}
+.search-res-sec .search-ulmain .search-mainli {
+
+    padding: 3px 0px;
+width: 31.9%;
+height: 44px;
+margin-bottom: 3px;
+}
+.search-res-sec .search-ulmain .search-mainli .right-icon {
+    font-size: 16px;
+    line-height: 16px;
+    display: block;
+}
+.search-res-sec .search-ulmain .search-mainli a {
+   font-size: 14px;
+line-height: 14px;
+display: block;
+margin-bottom: 3px;
+}
+.search-res-sec .search-ulmain .search-mainli .nav-icons {
+    display: block;
+    text-align: center;
+}
+.video-grid-sec .order-column-text{
+	display: flex;
+	order: 2;
+	justify-content: center;
+}
+.video-grid-sec .icon-div {
+    text-align: center;
+
+}
+.video-grid-sec .video-header-text {
+    text-align: center;
+}
+header .input-group.listing-arrow {
+    margin: 0px 0px 0px 0px;
+    display: inline-block !important;
+  width: 100%;
+text-align: center;
+
+}
+header .btn-danger {
+width: 100%;
+margin-top: 0px;
+}
+header .listing-arrow .main-ul .main-li .sub-li {
+right: 50%;
+text-align: left;
+margin-right: -100px;
+left: unset;
+
+}
+.video-grid-sec .icon-div a {
+padding: 0px 14px;
+    font-size: 16px;
+}
+header .listing-arrow i {
+    font-size: 30px;
+}
+section.video-grid-sec .video-header-text .breadcrumb-item {
+    font-size: 18px;
+}
+.main-pop-sec .right-main-popup .girl-detais-div .contact-link .btn {
+    padding: 5px 3px;
+    font-size: 16px;
+}
+.main-pop-sec .right-main-popup .girl-detais-div .share-links a i {
+    font-size: 18px;
+}
+.main-pop-sec .right-main-popup .girl-detais-div .share-links a {
+    font-size: 14px;
+    margin: 0px 4px;
+}
+.main-pop-sec .right-main-popup .descreption p {
+    font-size: 14px;
+}
+.main-pop-sec .modal-dialog.main-popup {
+    margin-left: 15px;
+    margin-right: 15px;
+}
+.main-pop-sec .right-main-popup .price-list .price.big h6 span {
+    font-size: 16px;
+}
+section.video-grid-sec .video-header-text .breadcrumb {
+    margin-bottom: 0rem;
+}    
+section.video-grid-sec .video-header-text h1 {
+    font-size: 20px;
+    margin-top: 10px;
+    margin-bottom: 0px;
+}
+section.video-grid-sec .top-fix-button {
+height: 238px;
+margin-top: 11px;
+z-index: 3;
+left: 0;
+padding: 0px 0px;
+background:
+#33333380;
+border-radius: 6px;
+left: 10px;
+width: 30px;
+}
+section.video-grid-sec .top-fix-button h2 {
+font-size: 18px !important;
+}
+section.video-grid-sec .top-fix-button::before {
+   display: none;
+}
+section.video-grid-sec .top-fix-main {
+display: block;
+}
+
+section.video-grid-sec .video-image .img-text.white-bg:nth-child(14){
+background-color: #fa8072;
+color: #fff;
+}
+.modal-gallery .close {
+    top: -7px;
+    right: 50%;
+   margin-right: -15px;
+}
+.main-pop-sec .image-model .close.image-close {
+    right: 50%;
+    margin-right: -15px;
+}
+.modal-gallery img {
+    width: 100%;
+}
+section.video-grid-sec .main-pop-sec .popupclick-button {
+    display: none;
+}
+.main-pop-sec .right-main-popup .girl-detais-div h3 {
+    font-size: 17px;
+}
+.main-pop-sec .right-main-popup .girl-detais-div .justify-girl-detais {
+    display: flex;
+    width: 100%;
+    flex-flow: row;
+}
+.main-pop-sec .right-main-popup .girl-detais-div .main-justify-div {
+ display: block;
+}
+.main-pop-sec .right-main-popup .girl-detais-div .main-justify-div .name2 {
+    width: 50%;
+ }       
+section.video-grid-sec .main-pop-sec .modal-dialog.main-popup .modal-content button.close {
+        display: block !important;
+}
+.main-pop-sec .modal-dialog{
+    margin: .5rem 0px;
+}
+.main-pop-sec .top-pop-flex {
+    display: block;
+}
+.main-pop-sec .contact-links .btn.btn-primary {
+    width: 100%;
+    margin-bottom: 5px;
+}
+.main-pop-sec .contact-links .btn.btn-success {
+   width: 100%;
+}
+.main-pop-sec .main-div-popup .second-peragraf p {
+    font-size: 16px;
+    line-height: 20px;
+}
+.main-pop-sec .main-div-popup .rates-div {
+    display: block;
+}
+.main-pop-sec .main-div-popup .left-rate {
+    width: 100%;
+    border-right: 0px;
+    padding: 15px 0px 0px 0px;
+}
+.main-pop-sec .main-div-popup .right-rate {
+    width: 100%;
+    padding: 15px 0px 0px 0px;
+}
+.main-pop-sec .main-div-popup .grid {
+    max-height: 786px;
+}
+.main-pop-sec .main-div-popup h4 {
+    font-size: 18px;
+}
+.main-pop-sec .main-div-popup .serach-icon-img {
+    right: 16px;
+    bottom: 6px;
+width: 30px;
+height: 30px;
+}
+.main-pop-sec .main-div-popup .gallery-img .vendor {
+    font-size: 13px;
+    padding: 4px 2px;
+    line-height: 18px;
+}
+.main-pop-sec .main-div-popup .about-me-popup a {
+    font-size: 14px;
+}
+.main-pop-sec .contact-popup h3 {
+    font-size: 22px;
+}
+.main-pop-sec .main-div-popup .gallery-img a img {
+
+    width: 110px;
+
+}
+.main-pop-sec .right-gallery-column {
+    background: #fff;
+    margin-top: 20px;
+}
+.main-pop-sec .right-gallery-column .top-image-main .image-text-div a {
+   font-size: 14px;
+}
+header .input-group.select-droup-down{
+    margin-bottom: 10px;
+}
+.listing-panel-sec .listing-icon-text .icon-font {
+    font-size: 24px;
+}
+.listing-panel-sec .listing-icon-text span {
+    font-size: 24px;
+}
+.main-pop-sec .right-main-popup .girl-detais-div .contact-link a i {
+    font-size: 20px;
+    margin-right: 4px;
+}
+.login.container .popupheader h3 {
+   font-size: 26px;
+}
+.login.container .popupheader p {
+   font-size: 16px;
+}
+.login.container .popup-form-div h4 {
+    font-size: 20px;
+    margin-bottom: 10px;
+    text-align: center;
+}
+.login.container .form-group {
+    margin-bottom: 10px;
+}
+.login.container .custom-control-label {
+    font-size: 13px;
+    line-height: 19.5px;
+}
+.login.container a.form-link {
+   font-size: 13px;
+   margin-top: 4px;
+}
+.login.container .custom-control {
+    margin-bottom: 18px;
+}
+.login.container .btn-primary {
+height: 40px;
+font-size: 18px;
+}
+.login.container .popup-form-div p {
+    font-size: 17px;
+}
+.login.container .popup-form-div p {
+    font-size: 17px;
+    margin-bottom: 10px;
+}
+.login.container .popup-form-div .form-group.right {
+    margin-bottom: 25px !important;
+}
+.popup-form-div.border-popup::after {
+    display: none;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
+@media all and (min-width: 576px) and (max-width: 767px) {
+header .input-group {
+    margin-right: 10px !important;
+    width: 48% !important;
+}
+header .btn-danger {
+    width: 48%;
+}
+header .input-group.listing-arrow {
+    width: 100% !important;
+}
+
+}
+
+
+
+
+
+/* E (min-width: 320px) and (max-width: 767px)*/
+/* resposive- column */
+@media only screen and (max-width: 389px) {
+section.video-grid-sec .masonry {
+-moz-column-count: 1;
+-webkit-column-count: 1;
+column-count: 1;
+}
+}
+
+@media only screen and (min-width: 320px) and (max-width: 389px){
+.main-pop-sec .photos-left-div .images-div .phtos-img-grid {
+    margin-right: 0px;
+    width: 100%;
+    display: inline-block;
+}
+.main-pop-sec .photos-left-div .images-div {
+    display: block;
+}
+
+
+
+
+
+}
+
+/* @media only screen and (min-width: 321px) and (max-width: 768px) */
+@media only screen and (min-width: 390px) and (max-width: 768px){
+section.video-grid-sec .masonry {
+-moz-column-count: 2;
+-webkit-column-count: 2;
+column-count: 2;
+}
+section.video-grid-sec .item.video-image.column-6{
+    display: block;
+}
+.main-pop-sec .photos-left-div .images-div .phtos-img-grid {
+    margin-right: 15px;
+    width: 47%;
+    display: inline-block;
+}
+.main-pop-sec .photos-left-div .images-div .phtos-img-grid.sum{
+    margin-right: 0px;
+}
+.main-pop-sec .photos-left-div .images-div {
+    display: block;
+}
+
+
+
+
+
+
+
+}
+
+
+
+
+
+@media all and (min-width: 768px) and (max-width: 991px) {
+header .navbar {
+    padding: 0px 15px;
+}
+.video-grid-sec .icon-div a {
+padding: 0px 11px;
+font-size: 17px;
+}
+section.video-grid-sec .video-header-text h1 {
+    font-size: 24px;
+}
+.listing-panel-sec .listing-icon-text .icon-font {
+    font-size: 19px;
+}
+.listing-panel-sec .listing-icon-text span {
+    font-size: 19px;
+}  
+.search-res-sec .search-ulmain .search-mainli {
+ width: 13.7%;
+padding: 6px 2px;
+}
+.search-res-sec .search-ulmain .search-mainli a {
+    font-size: 14px;
+}
+.search-res-sec .search-ulmain .search-mainli .right-icon {
+    font-size: 15px;
+}
+.main-pop-sec .modal-dialog.main-popup .modal-content {
+    padding: 15px 15px;
+}
+.main-pop-sec .popupclick-button {
+    display: none;
+}
+.main-pop-sec .right-main-popup .girl-detais-div h3 {
+    font-size: 18px;
+}
+.main-pop-sec .right-main-popup .girl-detais-div .main-justify-div h5 {
+    font-size: 16px;
+}
+.main-pop-sec .right-main-popup .girl-detais-div .main-justify-div .name2 {
+font-size: 12px;
+width: 34%;
+}
+.main-pop-sec .right-main-popup .girl-detais-div .main-justify-div h5 {
+    font-size: 14px;
+}
+.main-pop-sec .right-main-popup .girl-detais-div .contact-link .btn {
+    font-size: 16px;
+
+}
+.main-pop-sec .right-main-popup .girl-detais-div .share-links a {
+    font-size: 15px;
+    margin: 0px 4px;
+}
+.main-pop-sec .right-main-popup .girl-detais-div .share-links a i {
+ font-size: 19px;
+}
+.main-pop-sec .right-main-popup .descreption p {
+    font-size: 15px;
+}
+.main-pop-sec .right-main-popup .price-list .price.big h6 span {
+    font-size: 16px;
+}
+.modal-gallery .close {
+top: -10px;
+}
+section.video-grid-sec .main-pop-sec .modal-dialog.main-popup .modal-content button.close {
+    display: block !important;
+}
+.main-pop-sec .modal-dialog.main-popup .modal-content button.close {
+right: 16px;
+}
+
+
+
+
+
+
+}
+/* E (min-width: 768px) and (max-width: 991px)*/
+@media all and (min-width: 992px) and (max-width: 1024px) {
+.search-res-sec .search-ulmain .search-mainli {
+    padding: 6px 3px;
+    width: 13.8%;
+}
+.search-res-sec .search-ulmain .search-mainli a {
+    font-size: 15px;
+}
+.search-res-sec .search-ulmain .search-mainli .right-icon {
+    font-size: 18px;
+}
+section.video-grid-sec .main-pop-sec .modal-dialog.main-popup .modal-content button.close {
+    display: block !important;
+}
+.main-pop-sec .modal-dialog.main-popup .modal-content button.close {
+right: 16px;
+}
+.main-pop-sec .popupclick-button {
+    display: none;
+}
+
+
+
+
+
+
+}
+/* E (min-width: 992px) and (max-width: 1024px)*/
+@media all and (min-width: 768px) and (max-width: 1024px) {
+
+}
+
+/* @media only screen and (min-width: 769px) and (max-width: 1200px) */
+@media only screen and (min-width: 769px) and (max-width: 1200px){
+section.video-grid-sec .masonry {
+-moz-column-count: 3;
+-webkit-column-count: 3;
+column-count: 3;
+}
+}
+/* E (min-width: 768px) and (max-width: 1024px)*/
+@media all and (min-width: 1025px) and (max-width: 1199px) {
+.search-res-sec .search-ulmain .search-mainli {
+    padding: 6px 3px;
+    width: 13.8%;
+}
+.search-res-sec .search-ulmain .search-mainli a {
+    font-size: 15px;
+}
+.search-res-sec .search-ulmain .search-mainli .right-icon {
+    font-size: 18px;
+}
+.main-pop-sec .popupclick-button {
+    display: none;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+}
+/* E (min-width: 1025px) and (max-width: 1199px)*/
+@media all and (min-width: 1200px) and (max-width: 1280px) {
+.search-res-sec .search-ulmain .search-mainli a {
+    font-size: 14px;
+}
+.search-res-sec .search-ulmain .search-mainli .right-icon {
+    font-size: 18px;
+}
+.search-res-sec .sublist-ul .sublist-li a span {
+    font-size: 14px;
+
+}
+
+
+
+
+
+
+}
+/* E (min-width: 1200px) and (max-width: 1280px)*/
+
+
+/* @media only screen and (min-width: 1201px) */
+@media only screen and (min-width: 1201px) {
+section.video-grid-sec .masonry {
+-moz-column-count: 5;
+-webkit-column-count: 5;
+column-count: 5;
+height: 100%;
+}
+}
+/* resposive- column */

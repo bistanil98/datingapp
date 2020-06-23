@@ -1,0 +1,316 @@
+/*Default header*/
+
+.default-header .horizontal-main {
+    background: #333;
+	border-bottom: 1px solid transparent;
+    border-top: 1px solid transparent;
+}
+
+.default-header .hor-menu .horizontalMenu>.horizontalMenu-list>li>a.active{
+	color: #fff;
+    background: #272626;
+}
+.default-header .hor-menu .horizontalMenu>.horizontalMenu-list>li>a:hover{
+	color: #fff;
+	background:#333333;
+}
+.default-header .hor-menu .horizontalMenu>.horizontalMenu-list>li>a.active:hover{
+	color: #fff;
+}
+.default-header .horizontalMenu>.horizontalMenu-list>li>a .fa{
+	color: #04cad0;
+}
+.default-header .horizontalMenu>.horizontalMenu-list>li:first-child a{
+	border-left: 1px solid rgba(255,255,255,0.1);
+}
+.default-header .horizontalMenu>.horizontalMenu-list>li:last-child>a {
+	border-right: 1px solid rgba(255,255,255,0.1);
+}
+.default-header .horizontalMenu>.horizontalMenu-list>li>a{
+	border-left: 1px solid rgba(255,255,255,0.1);
+}
+.default-header .page-title{
+	color: #fff;
+}
+.default-header .breadcrumb-item.active {
+    color: rgba(255,255,255,0.4);
+}
+.default-header .breadcrumb-item a {
+    color: #fff;
+}
+.default-header .header .form-inline .form-control{
+	border-color: rgba(0,0,0,0.1);
+	background: #00000033;
+	color: #fff
+}
+.default-header .header .form-inline .btn{
+	color: #fff
+}
+@media only screen and (max-width: 991px){
+	.default-header .horizontalMenu>.horizontalMenu-list{
+		background:#0b2239;
+	}
+	.default-header .horizontalMenu>.horizontalMenu-list>li>a{
+		color:#fff;
+	}
+	.horizontalMenu>.horizontalMenu-list>li>a{
+		border-bottom: 1px solid;
+		border-bottom-color: rgba(255,255,255,0.01);
+	}
+}
+
+
+/*Header Style1*/
+.header-style1  .header {
+    background: #0b2239;
+}
+.header-style1  .horizontal-main {
+    background: transparent;
+	border-bottom: 1px solid rgba(255,255,255,0.1) !important;
+    border-top: 1px solid rgba(255,255,255,0.1) !important;
+}
+.header-style1  .hor-menu .horizontalMenu>.horizontalMenu-list>li>a.active:hover{
+	color: #fff;
+}
+.header-style1 .horizontalMenu>.horizontalMenu-list>li>a .fa{
+	color: #04cad0;
+}
+.header-style1  .horizontalMenu>.horizontalMenu-list>li:first-child a{
+	border-left: 1px solid rgba(255,255,255,0.1);
+}
+.header-style1  .horizontalMenu>.horizontalMenu-list>li:last-child>a {
+	border-right: 1px solid rgba(255,255,255,0.1);
+}
+.header-style1  .horizontalMenu>.horizontalMenu-list>li>a{
+	border-left: 1px solid rgba(255,255,255,0.1);
+}
+.header-style1  .page-title{
+	color: #fff;
+}
+.header-style1  .breadcrumb-item.active {
+    color: rgba(255,255,255,0.4);
+}
+.header-style1  .breadcrumb-item a {
+    color: #fff;
+}
+.header-style1 .header .form-inline .form-control{
+	border-color: rgba(255,255,255,0.1);
+    background: #928f8f33;
+	color: #fff
+}
+.header-style1 .header .form-inline .btn{
+	color: #fff
+}
+@media only screen and (max-width: 991px){
+	.header-style1 .horizontalMenu>.horizontalMenu-list{
+		background: #564ec1;
+	}
+	.header-style1 .horizontalMenu>.horizontalMenu-list>li:hover>a{
+		background:#453e9b;
+	}
+}
+.header-style1 .sticky.sticky-pin .horizontal-main {
+	background:#0b2239;
+}
+
+
+/*Header Style2*/
+
+.header-style2 .horizontal-main {
+    background: #0b2239;
+	border-bottom: 1px solid transparent;
+    border-top: 1px solid transparent;
+}
+.header-style2 .page-main:after {
+    background: #564ec1;
+	display:none;
+}
+.header-style2 .hor-menu .horizontalMenu>.horizontalMenu-list>li>a.active{
+	color: #fff;
+    background: #28273a;
+}
+.header-style2 .hor-menu .horizontalMenu>.horizontalMenu-list>li>a:hover{
+	color: #fff;
+	background:#28273a;
+}
+.header-style2 .hor-menu .horizontalMenu>.horizontalMenu-list>li>a.active:hover{
+	color: #fff;
+}
+.header-style2 .horizontalMenu>.horizontalMenu-list>li>a .fa{
+	color: #04cad0;
+}
+.header-style2 .horizontalMenu>.horizontalMenu-list>li:first-child a{
+	border-left: 1px solid rgba(255,255,255,0.1);
+}
+.header-style2 .horizontalMenu>.horizontalMenu-list>li:last-child>a {
+	border-right: 1px solid rgba(255,255,255,0.1);
+}
+.header-style2 .horizontalMenu>.horizontalMenu-list>li>a{
+	border-left: 1px solid rgba(255,255,255,0.1);
+}
+.header-style2 .page-title{
+	color:#0b2239;
+}
+.header-style2 .breadcrumb-item.active {
+    color: #564ec1;
+}
+.header-style2 .breadcrumb-item a {
+    color: #0b2239;
+}
+.header-style2 .header .form-inline .form-control{
+	border-color: rgba(0,0,0,0.1);
+	background: #00000033;
+	color: #fff
+}
+.header-style2 .header .form-inline .btn{
+	color: #fff
+}
+
+
+/* Default-leftmenu */
+.default-menu .first-sidemenu{
+	background: #fff;
+}
+.default-menu .side-menu__icon{
+	color: #564ec1;
+}
+.default-menu .resp-vtabs .resp-tabs-list li{
+	color: #121029;
+}
+.default-menu .app-sidebar .app-logo{
+	border-bottom: 1px solid rgba(107, 122, 144, 0.1);
+    border-right: 1px solid rgba(107, 122, 144,0.1);
+}
+.default-menu .resp-vtabs li.resp-tab-active{
+	background-color:#f4f3f780 !important;
+	border: 1px solid rgba(107, 122, 144, 0.1) !important;
+	border-left: 0 !important;
+    border-top: 0 !important;
+    border-bottom: 0;
+    border-right: 0;
+}
+.default-menu .resp-vtabs .resp-tabs-list li.active{
+	background-color: #efedf380 !important;
+}
+.default-menu .resp-vtabs li.active{
+	background-color: #efedf380 !important
+}
+.default-menu .resp-vtabs li:hover{
+	background-color: #efedf380 !important
+}
+.default-menu .slide-item{
+	color: #2e384d;
+}
+
+
+/* Dark-leftmenu */
+.dark-menu .first-sidemenu{
+	background: #0b2239;
+}
+.dark-menu .resp-vtabs .resp-tabs-list li{
+	color: #fff;
+}
+.dark-menu .app-sidebar .app-logo{
+	border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+    border-right: 1px solid rgba(255,255,255,0.1);
+}
+.dark-menu .resp-vtabs li.resp-tab-active{
+	background-color:#1c2d3e !important;
+	border: 1px solid rgba(255, 255, 255, 0.1) !important;
+	border-left: 0 !important;
+    border-top: 0 !important;
+    border-bottom: 0;
+    border-right: 0;
+}
+.dark-menu .resp-vtabs .resp-tabs-list li.active{
+	background-color: #28273a !important;
+}
+.dark-menu .resp-vtabs li.active{
+	background-color: #28273a !important
+}
+.dark-menu .resp-vtabs li:hover{
+	background-color: #28273a !important
+}
+.dark-menu .slide-item{
+	color: #2e384d;
+}
+
+
+/* Default-leftmenu-2 */
+.default-leftmenu .app-sidebar{
+	background: #fff;
+	color: #1d262c;
+}
+.default-leftmenu .app-sidebar__user{
+	color: #9493a9;
+	border-bottom: 1px solid rgba(107, 122, 144, 0.1);
+}
+.default-leftmenu .side-menu li h3:hover {
+    color: #1d262c !important;
+}
+.default-leftmenu .app-sidebar ul li a {
+    color: #121029;
+}
+.default-leftmenu .side-menu li a {
+    border-top: 1px solid rgba(107, 122, 144, 0.1);
+}
+.default-leftmenu .side-menu li:last-child a {
+    border-bottom: 1px solid rgba(107, 122, 144, 0.1);
+}
+.default-leftmenu .side-menu li ul li a {
+    border-top: 0;
+    border-bottom: 0;
+}
+.default-leftmenu .slide-menu li:last-child a {
+    border-bottom: 0;
+}
+
+/* Dark-leftmenu-2 */
+.leftmenu-style2.dark-leftmenu .app-sidebar2{
+	background: #0b2239;
+	color: #fff;
+}
+.leftmenu-style2.dark-leftmenu .user-info h2{
+	color: #fff;
+}
+.leftmenu-style2.dark-leftmenu .app-sidebar__user2{
+	color: #9493a9;
+	border-bottom: 1px solid rgba(107, 122, 144, 0.2);
+}
+.leftmenu-style2.dark-leftmenu .side-menu li h3{
+    color: #fff !important;
+}
+.leftmenu-style2.dark-leftmenu .side-menu li h3:hover {
+    color: #fff !important;
+}
+.leftmenu-style2.dark-leftmenu .left-menu2 .app-sidebar2 .side-menu li a:hover{
+    color: #fff;	
+	background:#28273a
+}
+.leftmenu-style2.dark-leftmenu .left-menu2.app-sidebar2 .side-menu li a:hover {
+    color: #fff;	
+	background:#28273a
+}
+.leftmenu-style2.dark-leftmenu .left-menu2.app-sidebar2 .slide-menu li a:hover{
+	color: #a29de6;	
+	background: none;
+}
+.leftmenu-style2.dark-leftmenu .sidebar-navs .border{
+	border: 1px solid rgba(107, 122, 144, 0.3) !important;
+}
+.leftmenu-style2.dark-leftmenu .app-sidebar2 ul li a {
+    color: #fff;
+}
+.leftmenu-style2.dark-leftmenu .side-menu li a {
+    border-top: 1px solid rgba(107, 122, 144, 0.2);
+}
+.leftmenu-style2.dark-leftmenu .side-menu li:last-child a {
+    border-bottom: 1px solid rgba(107, 122, 144, 0.2);
+}
+.leftmenu-style2.dark-leftmenu .side-menu li ul li a {
+    border-top: 0;
+    border-bottom: 0;
+}
+.leftmenu-style2.dark-leftmenu .slide-menu li:last-child a {
+    border-bottom: 0;
+}

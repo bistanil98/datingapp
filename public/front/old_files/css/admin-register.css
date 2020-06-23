@@ -1,0 +1,665 @@
+
+	/* -----------------register-form-csss------------------------------ */
+.registration-sec .main-registration {
+background: 
+#473f3f;
+border-radius: 12px;
+padding: 15px;
+}
+.registration-sec .main-registration .rigt-main-column {
+    padding-left: 0px;
+}
+.registration-sec .form-group.verify-button .btn.btn-success {
+    width: 100%;
+    font-weight: 600;
+}
+.registration-sec {
+    padding: 0px 0px 40px;
+}
+.registration-sec .main-registration .left-registration .main-image-register{
+margin-bottom: 15px;
+position: relative;
+z-index: 22;    
+}
+.registration-sec .main-registration .left-registration .main-image-register .cover-image-bg {
+max-width: 100%;
+position: relative;
+z-index: 10;
+overflow: hidden;
+background-image: url('../images/bg-img.jpg');
+background-size: 100% 649px;
+background-position: center;
+background-repeat: no-repeat;
+height: 649px;
+max-height: 100%;
+border-radius: 12px;
+text-align: right;   
+width: 433px;
+margin: 0px auto;
+}
+.registration-sec .main-registration .left-registration .main-image-register .main-image-text {
+
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-left: -110px;
+margin-top: -110px;
+border-radius: 100%;
+background:
+rgba(0,0,0,0.4);
+transition: 0.4s;
+}
+.registration-sec .main-registration .left-registration .main-image-register .main-image-text:hover {
+    opacity: 0.5;
+}
+.registration-sec .main-registration .left-registration .main-image-register .top-cover-img .cover-image {
+color:
+#fff;
+background:
+rgba(0,0,0,0.5);
+font-weight: 600;
+font-size: 20px;
+padding: 2px 10px 10px 10px;
+text-transform: capitalize;
+border-bottom-left-radius: 12px;
+position: absolute;
+z-index: 2;
+right: -1px;
+border-top-right-radius: 12px;
+}
+.registration-sec .main-registration .left-registration .main-image-register .main-image-text .btn.btn-danger {
+text-align: center;
+text-transform: capitalize;
+color: #fff;
+font-size: 22px;
+text-decoration: none;
+display: block;
+font-weight: 600;
+line-height: 28px;
+}
+.registration-sec .main-registration .left-registration .main-image-register .main-image-text a.btn.btn-danger i {
+
+vertical-align: revert;
+margin-right: 3px;
+font-size: 26px;
+
+}
+.registration-sec .main-registration .left-registration .main-image-register .main-image-text .uplode-button {
+width: 220px;
+text-align: center;
+background-image: url('../images/photo-camera.png');
+border-radius: 100%;
+height: 220px;
+background-position: center;
+background-repeat: no-repeat;
+background-size: 185px 185px;
+}
+.registration-sec .main-registration .left-registration .main-image-register .main-image-text .uplode-button:hover {
+    cursor: pointer;
+}
+.registration-sec .main-registration .right-registration .profile-register-div h2 {
+font-size: 21px;
+font-weight: 600;
+color: 
+#fd2c94;
+margin-bottom: 20px;
+}
+.registration-sec .main-registration .right-registration .profile-register-div .justifty-profile .left-justify label {
+text-transform: capitalize;
+font-size: 18px;
+color: #d2d2d2;
+vertical-align: middle;
+margin: 0px;
+}
+.registration-sec .main-registration .right-registration .profile-register-div .justifty-profile .left-justify label .zona-span {
+    font-size: 12px;
+}
+.registration-sec .main-registration .right-registration .profile-register-div .justifty-profile .left-justify{
+margin-bottom: 12px;
+}
+.registration-sec .main-registration .right-registration .profile-register-div .contact-register {
+border-top: 1px solid#c4c4c4;
+padding: 15px 0px 0px 0px;
+margin: 15px 0px 0px 0px;
+}
+.registration-sec .main-registration .right-registration .profile-register-div .contact-register {
+    color: 
+    #fff;
+}
+.registration-sec .main-registration .right-registration .yesno-radio .whatsapp .fa-whatsapp {
+    color: 
+    #25D366;
+    font-size: 30px;
+    vertical-align: middle;
+    margin-right: 6px;
+}
+.registration-sec .main-registration .right-registration .profile-register-div .contact-register .form-group.yes-no {
+    margin-bottom: 0;
+}
+.registration-sec .main-registration .right-registration .profile-register-div .contact-register .form-group.yes-no .yesnoss {
+    display: inline-block;
+    margin-left: 31px;
+}
+.registration-sec .main-registration .right-registration .description-regis label h4 {
+    margin-bottom: 10px;
+}
+.registration-sec .main-registration .select-row .label-column {
+    padding-right: 0px;
+}
+.registration-sec .main-registration .right-registration .profile-register-div .contact-register .input-group-append .btn{
+border-top-left-radius: 4px;
+border-bottom-left-radius: 4px;
+}
+.registration-sec .main-registration .common-right {
+margin-bottom: 15px;
+background: #333;
+padding: 20px 20px;
+border-radius: 12px;
+}
+.registration-sec .main-registration .right-registration .detos-heading h4 {
+    text-transform: inherit !important;
+}
+.registration-sec .main-registration .right-registration .description-regis .form-group.short-from {
+    margin-bottom: 24px;
+}
+.registration-sec .main-registration .description-regis .form-control.short-text {
+    height: 38px;
+}
+.registration-sec .main-registration .common-right h4 {
+font-size: 22px;
+text-transform: capitalize;
+color: #fff;
+margin-bottom: 20px;
+
+}
+.registration-sec .left-registration .common-left {
+background: #333;
+border-radius: 12px;
+margin-bottom: 15px;
+padding: 20px 20px;
+}
+.registration-sec .main-registration .left-registration .tarifs-input.common-left h4 {
+font-size: 22px;
+text-transform: capitalize;
+color: 
+#fff;
+}
+.registration-sec .main-registration .left-registration .tarifs-input label {
+color: #fff;
+font-weight: 400;
+}
+.registration-sec .main-registration .right-registration .Horario-input .select-row .select-column {
+padding: 0px 4px;
+}
+.registration-sec .main-registration .Horario-input label {
+
+vertical-align: middle;
+font-weight: 400;
+color: #fff;
+margin: 0;
+}
+.registration-sec .main-registration .right-registration .Horario-input .select-column.label-column {
+padding: 0px 0px 0px 15px !important;
+}
+.registration-sec .main-registration .right-registration .Horario-input .horario-checkbox label {
+color: 
+#fff;
+}
+.registration-sec .main-registration .right-registration .Horario-input .horario-checkbox .hroraio-lebel {
+padding-left: 10px;
+}
+.registration-sec .main-registration .main-uploding-div.common-div {
+background: 
+#333;
+border-radius: 12px;
+margin-bottom: 15px;
+padding: 20px 20px;
+}
+.registration-sec .main-registration .imgUp {
+    margin-bottom: 30px;
+}
+.registration-sec .main-registration .imgUp .dropify-wrapper {
+background-image: url('../images/image-bkg.png') !important;
+    background-position: center center;
+    background-size: auto;
+    border: 2px solid #fff;
+    border-radius: 4px;
+
+}
+.registration-sec .main-registration .top-cover-img .dropify-wrapper {
+    background-image: url('../images/bg-img.jpg') !important;
+    height: 649px;
+max-height: 100%;
+border-radius: 12px;
+width: 433px;
+margin: 0px auto;
+background-size: 100% 649px;
+background-position: center;
+background-repeat: no-repeat;
+max-width: 100%;
+padding: 0px !important;
+border: 0px;
+}
+.registration-sec .main-registration .top-cover-img .dropify-wrapper .dropify-preview {
+    padding: 0px;
+    background: none;
+}
+.registration-sec .main-registration .top-cover-img {
+height: 649px;
+max-height: 100%;
+width: 433px;
+margin: 0px auto;
+max-width: 100%;
+position: relative;
+overflow: hidden;
+z-index: 3;
+}
+.registration-sec .main-registration .top-cover-img .img-top-icon {
+    position: absolute;
+    z-index: 4;
+    top: 50%;
+    left: 50%;
+    width: 220px;
+    margin-left: -110px;
+    margin-top: -110px;
+}
+.top-cover-img:hover .img-top-icon img {
+opacity: 0.4;
+}
+/* .registration-sec .main-registration .top-cover-img .img-top-icon img{
+opacity: 0.2 !important;
+cursor: pointer;
+}
+.registration-sec .main-registration .top-cover-img .img-top-icon img:hover{
+opacity: 0.1 !important;
+} */
+.registration-sec .main-registration .top-cover-img .dropify-message p {
+    display: none !important; 
+}
+.registration-sec .main-registration .top-cover-img .dropify-wrapper:hover {
+    animation: 0;
+}
+.registration-sec .main-registration .top-cover-img .dropify-wrapper .dropify-clear {
+    top: 48px;
+}    
+.registration-sec .main-registration .imgUp.video .dropify-wrapper {
+    background-image: url('../images/video-bkg.png') !important;
+}    
+.registration-sec .main-registration .imgUp .dropify-message p {
+    display: none !important; 
+}
+.registration-sec .main-registration .imgUp .dropify-font-upload::before, .dropify-wrapper .dropify-message span.file-icon::before {
+   display: none !important;
+}
+.registration-sec .main-registration .main-uploding-div.common-div h4 {
+font-size: 22px;
+text-transform: capitalize;
+color: 
+#fff;
+}
+.registration-sec .main-registration .main-uploding-div.common-div p {
+color: 
+#fff;
+}
+.registration-sec .main-registration .main-uploding-div.common-div .photo-p2 strong {
+color: #f80253;
+}
+.registration-sec .main-registration .main-uploding-div.common-div .photos-div .photo-check img {
+border: 2px solid 
+#f80253;
+width: 35px;
+display: inline-block;
+margin-right: 8px;
+}
+.registration-sec .main-registration .main-uploding-div.common-div .photos-div .photo-check label {
+color: 
+#fff;
+font-weight: 400;
+}
+.registration-sec .main-registration .main-uploding-div.common-div .photos-div .photo-check .btn.btn-primary {
+display: block;
+width: 145px;
+margin-top: 10px;
+text-align: center;
+max-width: 100%;
+}
+.registration-sec .main-registration .Sobreti-div.common-div {
+background: 
+#333;
+border-radius: 12px;
+margin-bottom: 15px;
+padding: 20px 20px;
+}
+.registration-sec .main-registration .Sobreti-div.common-div h4 {
+font-size: 22px;
+text-transform: capitalize;
+color: #fff;
+}
+.registration-sec .main-registration .Sobreti-div.common-div .form-group label {
+cursor: pointer;
+}
+.registration-sec .main-registration .Sobreti-div.common-div .form-group label input[type="checkbox"] {
+display: none;
+}
+.registration-sec .main-registration .Sobreti-div.common-div .form-group label input[type="checkbox"]:checked ~ span {
+background: #f74fa2;
+color: #fff;
+}
+.registration-sec .main-registration .Sobreti-div.common-div .form-group {
+margin-bottom: 0rem;
+}
+.registration-sec .main-registration .Sobreti-div.common-div .form-group span {
+position: relative;
+display: inline-block;
+background: 
+#fff;
+user-select: none;
+overflow: hidden;
+transition: 0.5s;
+max-width: 100%;
+width: 227px;
+}
+.registration-sec .regis-main-header {
+background: 
+#473f3f;
+margin-bottom: 30px;
+padding: 15px;
+color:
+#fff;
+position: relative;
+z-index: 10;
+height: 72.5px;
+display: flex;
+justify-content: space-between;
+align-items: center;
+}
+.registration-sec .regis-main-header .escrot-icon .navbar-brand {
+    color: 
+    #fff !important;
+    font-weight: 400;
+    font-size: 40px;
+    margin: 0px;
+}
+.registration-sec .regis-main-header .listing-arrow i {
+    font-size: 34px;
+}
+.registration-sec  .listing-arrow .main-ul .main-li {
+    position: relative;
+}
+.registration-sec .listing-arrow .main-ul {
+    padding: 0;
+    list-style: none;
+    margin: 0;
+    position: relative;
+}
+.registration-sec .listing-arrow .main-ul:hover .sub-li{
+    display: block !important;
+}
+.registration-sec .listing-arrow .main-ul .main-li .sub-li {
+    position: absolute;
+    width: 200px;
+    left: -164px;
+    padding: 0;
+    margin: 0;
+    background: 
+    #fff;
+    list-style: none;
+    border-radius: 3px;
+border: 1px solid
+#eee;
+padding: 8px 0px;
+display: none;
+}
+.registration-sec .listing-arrow .main-ul li a {
+    color: 
+    #fff;
+    text-decoration: none;
+}
+.registration-sec .listing-arrow .main-ul .main-li .sub-li li a {
+    color: 
+    #333;
+    text-decoration: none;
+}
+.registration-sec .listing-arrow .main-ul .main-li .sub-li li {
+    padding: 3px 10px;
+}
+.registration-sec .listing-arrow .main-ul .main-li .sub-li li:hover {
+    background: #eee;
+
+}
+
+.registration-sec .regis-main-header .listing-arrow {
+    margin-right: -1px;
+}
+.registration-sec .regis-header span i {
+font-size: 42px;
+}
+.registration-sec .regis-header .header-icon {
+position: absolute;
+border-right: 1px solid 
+#eee;
+top: 0;
+display: inline-block;
+padding-right: 10px;
+height: 73px;
+padding: 15px 15px 15px 0px;
+}
+.registration-sec .regis-header h5 {
+font-weight: 600;
+letter-spacing: 1px;
+margin-left: -30px;
+}
+.registration-sec .regis-header.card-regis-header h5 {
+  margin-left: -75px;
+margin-bottom: 0px;
+
+}
+.registration-sec .regis-header h5 .regish5-span {
+display: block;
+font-weight: 400;
+font-size: 16px;
+}
+.registration-sec .main-registration .map-div.common-div {
+background: 
+#333;
+border-radius: 12px;
+padding: 20px 20px;
+margin-bottom: 15px;
+}
+.registration-sec .main-registration .map-div.common-div .embed-column {
+    height: 500px;
+    max-height: 100%;
+}
+.registration-sec .main-registration .map-div.common-div .photos-div h4 {
+font-size: 22px;
+text-transform: capitalize;
+color: 
+#fff;
+}
+.registration-sec .main-registration .map-div.common-div .photos-div p {
+color: 
+#fff;
+font-weight: 400;
+margin: 0px;
+}
+.registration-sec .main-registration .map-div.common-div .photos-div p .bold-font {
+color: #f80253;
+}
+.registration-sec .main-registration .map-div.common-div .photos-div address {
+text-transform: capitalize;
+font-weight: 400;
+font-style: italic;
+color: 
+#fff;
+}
+.registration-sec .main-registration .map-div.common-div .photos-div .map-image {
+position: relative;
+z-index: 99;
+margin-top: 26px;
+overflow: hidden;
+}
+.registration-sec .main-registration .map-div.common-div .photos-div .map-image img {
+    width: 100%;
+}
+.registration-sec .main-registration .map-div.common-div .photos-div .map-image .text-block {
+position: absolute;
+top: 0px;
+left: 0px;
+background-color: 
+rgba(0,0,0,0.5);
+color:
+white;
+padding-left: 20px;
+padding-right: 20px;
+width: 100%;
+height: 100%;
+display: flex;
+justify-content: center;
+align-items: center;
+font-weight: 400;
+}
+.registration-sec .submit-form-text {
+color: 
+#fff;
+text-align: center;
+margin-top: 20px;
+}
+.registration-sec .submit-from {
+text-align: center;
+}
+.registration-sec .submit-from .btn.btn-danger {
+    width: 250px;
+    max-width: 100%;
+    padding: 10px;  
+}
+.registration-sec .submit-from i {
+    font-size: 28px;
+    vertical-align: middle;
+    margin-left: 8px;
+}
+.registration-sec .btn.btn-danger {
+background: #f80253;
+border: #f80253;
+font-weight: 600;
+}
+.registration-sec .Horario-input .hidess {
+  display: none;
+  font-size: 14px;
+}
+
+ .registration-sec .yesno-radio label.yes-label {
+display: inline-block;
+width: 65px;
+padding: 8px;
+background: #fff;
+transition: all 0.3s;
+color: #000;
+text-align: center;
+border-radius: 3px;
+}
+
+.registration-sec .yesno-radio .boxed input[type="checkbox"], input[type="radio"] {
+    display: none;
+}
+
+.registration-sec .yesno-radio .boxed input[type="checkbox"], input[type="radio"]:checked + label.yes-label {
+background: green;
+color: #fff;
+}
+.registration-sec .yesno-radio .boxed input[type="checkbox"], input[type="radio"]:checked + label.yes-label.no {
+background: red;
+color: #fff;
+}
+
+.verify-popup-sec #myModal-verify .modal-content {
+    background-color: #333;
+}
+.verify-popup-sec #myModal-verify .modal-content .modal-title {
+    color: 
+    #fff;
+}
+.verify-popup-sec #myModal-verify .modal-header .close {
+    color: 
+    #fff;
+}
+
+/* .card-sec  css start*/
+.card-sec {
+    padding: 40px 0px;
+}
+.card-header-text h4 {
+    font-weight: 500;
+    text-transform: capitalize;
+    font-size: 26px;
+    margin-bottom: 30px;
+}
+.card-sec .free-card-main h5 {
+    text-align: center;
+    font-size: 22px;
+    text-transform: capitalize;
+    width: 206px;
+margin: 0px auto;
+padding-right: 49px;
+max-width: 100%;
+}
+.card-sec .free-card-main p {
+   color:
+#333;
+font-weight: 400;
+font-size: 14px;
+margin-bottom: 5px;
+width: 212px;
+margin: 0px auto;
+display: list-item;
+}
+.card-sec .free-card-main {
+    position: relative;
+    height: 541px;
+    max-height: 100%;
+}
+.card-sec .free-card-main .free-card-img {
+    display: flex;
+    align-items: center;
+
+}
+.card-sec .free-card-main .free-card-img.one:hover {
+    margin-top: -8px;
+    transition: 0.3s;
+     opacity: 0.6;   
+}
+.card-sec .free-card-img.front {
+    height: 360px !important;
+}
+.card-sec .free-card-img.back {
+    height: 360px !important;
+}
+.registration-sec.image-card-se .regis-header.card-regis-header h5 {
+    margin-left: -70px;
+}
+.card-sec .free-card-main .free-card-img h6 {
+    position: absolute;
+    font-size: 22px;
+    left: 0px;
+      -webkit-transform: rotate(-90deg);
+    -moz-transform: rotate(-90deg);
+}
+.card-sec .free-card-main .buy-div {
+    width: 233px;
+    max-width: 100%;
+    position: absolute;
+    text-align: center;
+    bottom: 0;
+left: 50%;
+margin-left: -123px;
+}
+.card-sec .free-card-main .btn.btn-danger {
+    background: 
+#fd2c94;
+margin-right: 10px;
+text-transform: capitalize;
+border:
+    #fd2c94;
+}
+.registration-sec.image-card-sec {
+    padding: 0px;
+}

@@ -1,0 +1,6 @@
+[09-Jun-2020 06:40:20 CET] PHP Fatal error:  Cannot redeclare check_services() (previously declared in /home/locaymfh/escortlisting.localjoy.website/app/Helpers/helpers.php:137) in /home/locaymfh/escortlisting.localjoy.website/storage/framework/views/d1a0ed46be79a0ad53579e8277212e2d20316245.php on line 234
+[09-Jun-2020 16:22:35 CET] PHP Fatal error:  Cannot use lexical variable $population2 as a parameter name in /home/locaymfh/escortlisting.localjoy.website/app/Http/Controllers/AjaxController.php on line 649
+[09-Jun-2020 16:22:38 CET] PHP Fatal error:  Cannot use lexical variable $population2 as a parameter name in /home/locaymfh/escortlisting.localjoy.website/app/Http/Controllers/AjaxController.php on line 649
+[10-Jun-2020 12:20:38 America/New_York] PHP Parse error:  syntax error, unexpected '$data' (T_VARIABLE) in /home/locaymfh/escortlisting.localjoy.website/app/Helpers/helpers.php on line 739
+[10-Jun-2020 12:20:42 America/New_York] PHP Parse error:  syntax error, unexpected '$data' (T_VARIABLE) in /home/locaymfh/escortlisting.localjoy.website/app/Helpers/helpers.php on line 739
+[10-Jun-2020 12:21:01 America/New_York] PHP Parse error:  syntax error, unexpected '$data' (T_VARIABLE) in /home/locaymfh/escortlisting.localjoy.website/app/Helpers/helpers.php on line 739

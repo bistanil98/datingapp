@@ -1,0 +1,8 @@
+label.error {
+    color: red !important;
+}
+
+.anucnio-form .custom-control-label {
+    
+    position: initial;
+}

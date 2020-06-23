@@ -1,0 +1,201 @@
+@media all and (min-width: 320px) and (max-width: 767px) {
+a.navbar-brand img {
+    width: 215px;
+}
+header .navbar {
+    padding: 0px 15px;
+}
+header form.form-inline {
+    justify-content: flex-start;
+    -ms-flex-flow: row wrap;
+    flex-flow: row wrap;
+}
+header button.btn.btn-outline-secondary.dropdown-toggle {
+    width: 100%;
+    margin-bottom: 10px;
+    text-align: left;
+    margin-top: 10px;
+}
+header form.form-inline .input-group-prepend {
+    width: 100%;
+}
+header .btn-dark {
+    margin: 10px auto;
+}
+.video-grid-sec .order-column-text{
+	display: flex;
+	order: 2;
+	justify-content: center;
+}
+.video-grid-sec .icon-div {
+    text-align: center;
+
+}
+.video-grid-sec .video-header-text {
+    text-align: center;
+}
+section.video-grid-sec .video-header-text h1 {
+    font-size: 23px;
+    margin-top: 10px;
+    margin-bottom: 0px;
+}
+section.video-grid-sec .top-fix-button {
+    padding: 8px 0px;
+    height: 72px;
+    width: 83px;
+    max-width: 100%;
+    border-radius: 4px;
+    z-index: 1000;
+        left: 11px;
+
+}
+fix-button h2 {
+    font-size: 18px;
+}
+section.video-grid-sec .video-image .img-text.white-bg:nth-child(14){
+background-color: #fa8072;
+color: #fff;
+}
+.main-pop-sec .modal-dialog{
+    margin: .5rem 0px;
+}
+.main-pop-sec .top-pop-flex {
+    display: block;
+}
+.main-pop-sec .contact-links .btn.btn-primary {
+    width: 100%;
+    margin-bottom: 5px;
+}
+.main-pop-sec .contact-links .btn.btn-success {
+   width: 100%;
+}
+.main-pop-sec .main-div-popup .second-peragraf p {
+    font-size: 16px;
+    line-height: 20px;
+}
+.main-pop-sec .main-div-popup .rates-div {
+    display: block;
+}
+.main-pop-sec .main-div-popup .left-rate {
+    width: 100%;
+    border-right: 0px;
+    padding: 15px 0px 0px 0px;
+}
+.main-pop-sec .main-div-popup .right-rate {
+    width: 100%;
+    padding: 15px 0px 0px 0px;
+}
+.main-pop-sec .main-div-popup .grid {
+    max-height: 786px;
+}
+.main-pop-sec .main-div-popup h4 {
+    font-size: 18px;
+}
+.main-pop-sec .main-div-popup .serach-icon-img {
+    right: 16px;
+    bottom: 6px;
+width: 30px;
+height: 30px;
+}
+.main-pop-sec .main-div-popup .gallery-img .vendor {
+    font-size: 13px;
+    padding: 4px 2px;
+    line-height: 18px;
+}
+.main-pop-sec .main-div-popup .about-me-popup a {
+    font-size: 14px;
+}
+.main-pop-sec .contact-popup h3 {
+    font-size: 22px;
+}
+.main-pop-sec .main-div-popup .gallery-img a img {
+
+    width: 110px;
+
+}
+.main-pop-sec .right-gallery-column {
+    background: #fff;
+    margin-top: 20px;
+}
+.main-pop-sec .right-gallery-column .top-image-main .image-text-div a {
+   font-size: 14px;
+}
+header .input-group.select-droup-down{
+    margin-bottom: 10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+}
+/* E (min-width: 320px) and (max-width: 767px)*/
+/* resposive- column */
+@media only screen and (max-width: 320px) {
+section.video-grid-sec .masonry {
+-moz-column-count: 1;
+-webkit-column-count: 1;
+column-count: 1;
+}
+}
+
+/* @media only screen and (min-width: 321px) and (max-width: 768px) */
+@media only screen and (min-width: 321px) and (max-width: 768px){
+section.video-grid-sec .masonry {
+-moz-column-count: 2;
+-webkit-column-count: 2;
+column-count: 2;
+}
+}
+
+
+
+
+
+@media all and (min-width: 768px) and (max-width: 991px) {
+
+}
+/* E (min-width: 768px) and (max-width: 991px)*/
+@media all and (min-width: 992px) and (max-width: 1024px) {
+
+}
+/* E (min-width: 992px) and (max-width: 1024px)*/
+@media all and (min-width: 768px) and (max-width: 1024px) {
+
+}
+
+/* @media only screen and (min-width: 769px) and (max-width: 1200px) */
+@media only screen and (min-width: 769px) and (max-width: 1200px){
+section.video-grid-sec .masonry {
+-moz-column-count: 3;
+-webkit-column-count: 3;
+column-count: 3;
+}
+}
+/* E (min-width: 768px) and (max-width: 1024px)*/
+@media all and (min-width: 1025px) and (max-width: 1199px) {
+
+}
+/* E (min-width: 1025px) and (max-width: 1199px)*/
+@media all and (min-width: 1200px) and (max-width: 1280px) {
+
+}
+/* E (min-width: 1200px) and (max-width: 1280px)*/
+
+
+/* @media only screen and (min-width: 1201px) */
+@media only screen and (min-width: 1201px) {
+section.video-grid-sec .masonry {
+-moz-column-count: 5;
+-webkit-column-count: 5;
+column-count: 5;
+height: 100%;
+}
+}
+/* resposive- column */
